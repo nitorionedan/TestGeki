@@ -1,0 +1,4 @@
+EnemyType,BulletType,MovePattern,FirePattern,MoveTime,Stop,Fire,Return,Xpos,Ypos,BulletSpeed,HitPoint,Item,Score
+A,0,0,0,10,,,,,,,,,
+B,,,,,,,,,,,,,
+C,,,,,,,,,,,,,

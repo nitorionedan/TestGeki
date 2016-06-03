@@ -1,0 +1,7 @@
+.vs
+x64
+*.dat
+*.sdf
+*.sln
+*.vcxproj*
+Log.txt
